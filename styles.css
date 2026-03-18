@@ -1,5 +1,5 @@
  body {
-    max-width: 35rem; /* limits line length */
+    max-width: 950px; /* limits line length */
     margin: 0 auto;   /* centers the content */
 }
 body {
@@ -13,4 +13,10 @@ img {
 }
 img {
   float: none;
+}
+
+
+
+img:hover {
+  outline: 3px solid rgb(239, 199, 124);
 }
