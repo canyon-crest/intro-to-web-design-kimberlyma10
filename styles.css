@@ -72,3 +72,20 @@ font-size: 0.9em;
   line-height: 1;
   font-size: 1em;
 }
+
+a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(247, 231, 113);
+}
+
+a:hover {
+  color: rgb(139, 217, 126);
+}
+
+a:active {
+  color: rgb(100, 121, 255);
+}
